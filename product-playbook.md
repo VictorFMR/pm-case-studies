@@ -1,4 +1,4 @@
-# 🛠️ My Product Management Playbook: Discovery to Delivery
+# My Product Management Playbook: Discovery to Delivery
 
 > **Purpose:** A standardized operating framework detailing my end-to-end methodology for managing digital products—balancing user value, technical feasibility, and business viability.
 
