@@ -13,4 +13,4 @@
 3. [💡 **Discovery & Diversificación B2B2C:** Expansión de Producto con Riesgo Cero](./marco-topo-case-study.md)
 
 ---
-📧 **Contacto:** victor.munoz.ramirez@gmail.com | [LinkedIn](tu-linkedin-url)
+📧 **Contacto:** victor.munoz.ramirez@gmail.com 
