@@ -11,15 +11,15 @@ Welcome to my Product Management portfolio. This repository serves as a centrali
 
 ### Featured Case Studies & Product Playbook
 
-#### 1. [Discovery & B2B2C Expansion: Zero-CapEx Market Pivot](./b2b2c-pivot-case-study.md)
+#### 1. [Discovery & B2B2C Expansion: Zero-CapEx Market Pivot](./b2b2c-pivot-case-study.html)
 * **Focus:** *EdTech / Gamified Tourism SaaS* | **Status:** *Live / Active Work-in-Progress*
 * **Key Highlights:** Re-architected an existing web platform engine to enter the adult cultural tourism market with zero development CapEx. Pre-sold pilot contracts to 2 anchor municipalities to self-fund 100% of initial costs, yielding 25 inbound enterprise leads and projected recurring gross margins of **95%–97%**. Includes a 1, 2, and 3-year growth roadmap.
 
-#### 2. [Launch & B2B Scaling: Product-Market Fit in CPG Distribution](./cpg-scaling-case-study.md)
+#### 2. [Launch & B2B Scaling: Product-Market Fit in CPG Distribution](./cpg-scaling-case-study.html)
 * **Focus:** *Physical Product / B2B Wholesale Supply Chain* | **Status:** *Completed / Long-Term Success*
 * **Key Highlights:** Identified, imported, and scaled a novel plant-based whole-food category across the UK. Executed chef-led blind testing and co-creation campaigns, achieving a **97% recurring B2B retention rate** and transforming the line into the fastest-growing category in the distributor's catalog.
 
-#### 3. [Monetization Post-Mortem: Behavioral UX & Market Psychology](./c2c-postmortem-case-study.md)
+#### 3. [Monetization Post-Mortem: Behavioral UX & Market Psychology](./c2c-postmortem-case-study.html)
 * **Focus:** *C2C Peer-to-Peer Community Platform* | **Status:** *Post-Mortem Analysis*
 * **Key Highlights:** Evaluated the impact of implementing direct transaction fees on an altruistic, favor-exchange platform. Uncovered "Superfan Bias" in qualitative research and diagnosed the *Crowding-Out Effect* (Market Norms vs. Social Norms). Analyzed a **27% drop in MAU** post-release and outlined alternative corporate sponsorship pathways.
 
@@ -27,7 +27,7 @@ Welcome to my Product Management portfolio. This repository serves as a centrali
 
 ### Operating Framework & Methodology
 
-#### [My Product Management Playbook (Discovery to Delivery)](./product-playbook.md)
+#### [My Product Management Playbook (Discovery to Delivery)](./product-playbook.html)
 A comprehensive blueprint detailing how I manage end-to-end product operations in my current practice:
 * **Product Vision & Hypothesis Mapping:** Risk-based discovery and assumption testing.
 * **RICE / Value-vs-Effort Prioritization:** Balancing customer value against engineering capacity.
