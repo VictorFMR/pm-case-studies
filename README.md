@@ -1,6 +1,3 @@
-# pm-case-studies
-Product portfolio &amp; case studies
-
 # Víctor Muñoz Ramírez — Senior Product Manager Portfolio
 
 ¡Hola! Bienvenido a mi portfolio de Producto. Aquí encontrarás análisis detallados y estudios de caso sobre cómo abordo el ciclo de vida de producto (*Discovery, Validation, Growth & Post-Mortem*).
