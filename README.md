@@ -8,9 +8,9 @@
 
 ### 📂 Casos de Estudio Destacados
 
-1. [**Lanzamiento y Escalado B2B (CPG):** Incremento del +15% de Revenue y 97% de Retención](./jackfruit-case-study.md)
-2. [**Post-Mortem & Behavioral UX:** Evaluación de Modelos Transaccionales en Comunidad C2C](./helpfulpeeps-case-study.md)
-3. [**Discovery & Diversificación B2B2C:** Expansión de Producto con Riesgo Cero](./marco-topo-case-study.md)
+1. [**Lanzamiento y Escalado B2B (CPG):** Incremento del +15% de Revenue y 97% de Retención](./launching-case-study.md)
+2. [**Post-Mortem & Behavioral UX:** Evaluación de Modelos Transaccionales en Comunidad C2C](./postmortem-case-study.md)
+3. [**Discovery & Diversificación B2B2C:** Expansión de Producto con Riesgo Cero](./discovery-case-study.md)
 
 ---
 📧 **Contacto:** victor.munoz.ramirez@gmail.com 
