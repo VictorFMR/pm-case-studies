@@ -21,7 +21,7 @@
 
 ### 2. Discovery & User Research (Q2 2024)
 * **B2B Qualitative Interviews (100% Coverage):** Conducted deep-dive qualitative interviews with tourism directors across all **150 client municipalities** to identify unaddressed needs in adult cultural and historical tourism.
-* **B2C Quantitative Research:** Surveyed **35,000 registered end-users** (generating 3,500 valid responses; 83% reported high satisfaction, 71% requested higher challenge levels, and 31% asked for enhanced mobile interactions).
+* **B2C Quantitative Research:** Surveyed **35,000 registered end-users** (generating 3,850 valid responses; 83% reported high satisfaction, 71% requested higher challenge levels, and 31% asked for enhanced mobile interactions).
 * **Competitor Field Audits:** Performed on-site UX/UI audits in target regions (Valencia, Barcelona) that revealed high replacement barriers for existing child products (2–3 year municipal procurement cycles). This positioned an adult vertical as the ideal "Trojan Horse" entry vehicle.
 
 ---
