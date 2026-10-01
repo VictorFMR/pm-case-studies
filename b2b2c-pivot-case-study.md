@@ -2,7 +2,7 @@
 
 > **Descriptor:** *B2B2C SaaS & Gamified Tourism Platform Pivot*  
 > **Role:** *Senior Product Manager / Product Strategist*  
-> **Timeline:** *March 2024 – Present (Active In-Flight Case Study)*  
+> **Timeline:** *March 2026 – Present (Active In-Flight Case Study)*  
 > **Status:** *Live / Active Work-in-Progress*
 
 ---
