@@ -1,9 +1,9 @@
 # B2B2C Strategic Pivot, Gamification, and Engine Reuse
 
-> **Descriptor:** B2B2C SaaS & Gamified Tourism Platform Pivot  
-> **Role:** Senior Product Manager / Product Strategist    
-> **Timeline:** March 2026 – Present (Active In-Flight Case Study)  
-> **Status:** In progress, with pilots currently being implemented  
+> **Descriptor:** B2B2C SaaS & Gamified Tourism Platform Pivot\
+> **Role:** Senior Product Manager / Product Strategist\
+> **Timeline:** March 2026 – Present (Active In-Flight Case Study)\
+> **Status:** In progress, with pilots currently being implemented
 
 ---
 
