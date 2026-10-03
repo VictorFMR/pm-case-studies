@@ -17,12 +17,13 @@
 * **Business Challenge:** Overcome product growth deceleration in the family segment, bypass high replacement barriers in competitor-dominated regions (such as the Levante / East Coast region), and unlock a new adult cultural tourism revenue stream.
 * **Project Status:** IN-FLIGHT CASE STUDY. The adult product is being implemented in the initial pilot destinations, while the commercial pipeline and a multi-year expansion plan are being built in parallel.
 
-* mermaid
-timeline
-    title Project timeline 2026
-    Q1 2026 : Discovery and user research : 150 municipal interviews : 3,850 valid survey responses
-    Q2 2026 : Strategy and MVP : Engine reuse : 2 pilot contracts pre-sold
-    Q3 2026 : Execution and GTM : Pilots in implementation : 25 inbound requests
+mermaid
+flowchart LR
+    N["Newsletter to full client base"] --> P["25 quotation requests"]
+    P --> T["Year 1 target: 12-13 contracts (50%)"]
+    L["+3 inquiries from Levante"]
+    P ~~~ L
+```
 
 
 ---
