@@ -132,3 +132,24 @@ flowchart LR
 1. **Unlocking Non-Family B2B Segments:** Capturing municipal tourism boards that previously rejected the brand due to its exclusive focus on child/family tourism.
 2. **Niche Gamification Modules:** Packaging specialized routes (night routes, gastronomic tours, complex historical heritage) based on user telemetry insights.
 3. **Continuous Mobile UX Optimization:** Iterating the mobile web experience to balance digital interaction with real-world physical exploration.
+
+
+
+
+
+
+
+
+
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+  document.querySelectorAll("div.language-mermaid, pre > code.language-mermaid").forEach(el => {
+    const code = el.tagName === "CODE" ? el : el.querySelector("code");
+    const pre = document.createElement("pre");
+    pre.className = "mermaid";
+    pre.textContent = code.textContent;
+    (el.tagName === "CODE" ? el.parentElement : el).replaceWith(pre);
+  });
+  mermaid.initialize({ startOnLoad: false });
+  await mermaid.run();
+</script>
