@@ -17,7 +17,8 @@
 * **Business Challenge:** Overcome product growth deceleration in the family segment, bypass high replacement barriers in competitor-dominated regions (such as the Levante / East Coast region), and unlock a new adult cultural tourism revenue stream.
 * **My Role:** End-to-end owner of the initiative, from discovery to pilot implementation, in coordination with the company's founders where relevant.
 * **Constraint:** No additional investment budget was available beyond the hiring of a Product Manager, so the business opportunity had to be generated from within existing resources.
-* **Project Status:** IN-FLIGHT CASE STUDY. The adult product is being implemented in the initial pilot destinations, while the commercial pipeline and a multi-year expansion plan are being built in parallel.
+* **Project Status:** IN-FLIGHT CASE STUDY. The adult product is being implemented in the initial pilot destinations, while the commercial pipeline and a multi-year expansion plan are being built in parallel.\
+
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'cScale0':'#FDE2D4','cScale1':'#FFF1C1','cScale2':'#D8EFD3','cScaleLabel0':'#4A4A4A','cScaleLabel1':'#4A4A4A','cScaleLabel2':'#4A4A4A','textColor':'#7A7A7A','lineColor':'#C9B8D9'}}}%%
 timeline
@@ -32,7 +33,9 @@ timeline
 ### 2. Discovery & User Research (Q1 2026)
 * **B2B Qualitative Interviews (100% Coverage):** Conducted deep-dive qualitative interviews with tourism directors across all 150 client municipalities to identify unaddressed needs in adult cultural and historical tourism.
 * **B2C Quantitative Research:** Surveyed 35,000 registered end-users (generating 3,850 valid responses; 83% reported high satisfaction, 71% requested higher challenge levels, and 31% asked for enhanced mobile interactions).
-* **Competitor Field Audits:** Performed on-site UX/UI audits in target regions (Valencia, Barcelona) that revealed high replacement barriers for existing child products (2–3 year municipal procurement cycles). This positioned an adult vertical as a potential "Trojan Horse" entry vehicle that avoids those replacement cycles.
+* **Competitor Field Audits:** Performed on-site UX/UI audits in target regions (Valencia, Barcelona) that revealed high replacement barriers for existing child products (2–3 year municipal procurement cycles). This positioned an adult vertical as a potential "Trojan Horse" entry vehicle that avoids those replacement cycles.\
+
+  
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'lineColor':'#C9B8D9','edgeLabelBackground':'#FFFFFF','textColor':'#7A7A7A'}}}%%
 flowchart LR
@@ -72,7 +75,9 @@ The main risk is that the adult product fails to gain traction and does not beco
 * **Pilot Deployment:** Implementing pilot routes in Gernika and El Escorial to establish commercial B2B proof points and B2C engagement baselines.
 * **Customer Co-Creation:** Presented early interactive prototypes to interested municipal stakeholders, incorporating direct client feedback prior to final code freeze.
 * **Low-Friction Web App UX:** Removed app store installation barriers by offering instant QR/link-based web access without mandatory sign-up flows.
-* **B2B Inbound Demand:** A newsletter to the full client base announcing the adult prototype and its implementation in Gernika and El Escorial generated 25 inbound requests from other municipalities, at no paid advertising cost. All 25 requested information, a quotation and the implementation timeline, which reflects peer-signalling among municipal buyers who track each other's product deployments.
+* **B2B Inbound Demand:** A newsletter to the full client base announcing the adult prototype and its implementation in Gernika and El Escorial generated 25 inbound requests from other municipalities, at no paid advertising cost. All 25 requested information, a quotation and the implementation timeline, which reflects peer-signalling among municipal buyers who track each other's product deployments.\
+
+
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'lineColor':'#C9B8D9','textColor':'#7A7A7A'}}}%%
 flowchart LR
@@ -102,7 +107,9 @@ flowchart LR
 ---
 
 ### 6. Multi-Year Growth Roadmap & Future Expansion (1, 2, and 3-Year Objectives)
-As an active, in-flight project, strategic growth targets and product evolution pathways are structured across three explicit timeframes.
+As an active, in-flight project, strategic growth targets and product evolution pathways are structured across three explicit timeframes.\
+
+
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'lineColor':'#C9B8D9','textColor':'#7A7A7A'}}}%%
 flowchart LR
