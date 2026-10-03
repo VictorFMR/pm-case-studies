@@ -30,6 +30,11 @@ timeline
 * **B2B Qualitative Interviews (100% Coverage):** Conducted deep-dive qualitative interviews with tourism directors across all 150 client municipalities to identify unaddressed needs in adult cultural and historical tourism.
 * **B2C Quantitative Research:** Surveyed 35,000 registered end-users (generating 3,850 valid responses; 83% reported high satisfaction, 71% requested higher challenge levels, and 31% asked for enhanced mobile interactions).
 * **Competitor Field Audits:** Performed on-site UX/UI audits in target regions (Valencia, Barcelona) that revealed high replacement barriers for existing child products (2–3 year municipal procurement cycles). This positioned an adult vertical as a potential "Trojan Horse" entry vehicle that avoids those replacement cycles.
+```mermaid
+flowchart LR
+    F["Family product<br/>150+ municipalities"] -->|"cross-sell (Year 2)"| A("Adult vertical")
+    A -->|"additive, no displacement (Year 3)"| R["Competitor-dominated regions<br/>Levante / East Coast"]
+```
 
 ---
 
@@ -47,6 +52,13 @@ timeline
 * **Customer Co-Creation:** Presented early interactive prototypes to interested municipal stakeholders, incorporating direct client feedback prior to final code freeze.
 * **Low-Friction Web App UX:** Removed app store installation barriers by offering instant QR/link-based web access without mandatory sign-up flows.
 * **B2B Inbound Demand:** A newsletter to the full client base announcing the adult prototype and its implementation in Gernika and El Escorial generated 25 inbound requests from other municipalities, at no paid advertising cost. All 25 requested information, a quotation and the implementation timeline, which reflects peer-signalling among municipal buyers who track each other's product deployments.
+```mermaid
+flowchart LR
+    N["Newsletter to full client base"] --> P["25 quotation requests"]
+    P --> T["Year 1 target: 12-13 contracts (50%)"]
+    L["+3 inquiries from Levante"]
+    P ~~~ L
+```
 
 ---
 
@@ -55,6 +67,13 @@ timeline
 * **Current Status:** Pilots in implementation; no adult-route user data yet. 25 municipalities have requested quotations and implementation timelines, forming a qualified pipeline.
 * **Early Levante Signal:** In addition to these 25 requests, three inquiries about the new product have come from the Levante region, an early indication of the adult vertical as an entry route into competitor-dominated areas, before any dedicated campaign has started there.
 * **Target B2C Engagement:** Target route completion rate >65% (vs. 50% baseline on child routes) with average interactive session times of 45–60 minutes.
+```mermaid
+xychart-beta
+    title "Route completion rate (%)"
+    x-axis ["Child routes (baseline)", "Adult routes (target)"]
+    y-axis "Completion rate (%)" 0 --> 100
+    bar [50, 65]
+```
 
 ---
 
