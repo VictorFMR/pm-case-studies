@@ -15,6 +15,8 @@
 ### 1. Executive Summary & Business Context
 * **Context:** A B2B2C interactive gamification platform for local heritage routes with a presence in 150+ municipal destinations, originally created exclusively for families with children.
 * **Business Challenge:** Overcome product growth deceleration in the family segment, bypass high replacement barriers in competitor-dominated regions (such as the Levante / East Coast region), and unlock a new adult cultural tourism revenue stream.
+* **My Role:** End-to-end owner of the initiative, from discovery to pilot implementation, in coordination with the company's founders where relevant.
+* **Constraint:** No additional investment budget was available beyond the hiring of a Product Manager, so the business opportunity had to be generated from within existing resources.
 * **Project Status:** IN-FLIGHT CASE STUDY. The adult product is being implemented in the initial pilot destinations, while the commercial pipeline and a multi-year expansion plan are being built in parallel.
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'cScale0':'#FDE2D4','cScale1':'#FFF1C1','cScale2':'#D8EFD3','cScaleLabel0':'#4A4A4A','cScaleLabel1':'#4A4A4A','cScaleLabel2':'#4A4A4A','textColor':'#7A7A7A','lineColor':'#C9B8D9'}}}%%
@@ -52,6 +54,17 @@ flowchart LR
   * **Contract Price:** ~€8,000 per game (up to €13,000 for two-game bundles) + annual maintenance fee of 25% of the contract price.
   * **MVP Funding:** Pre-sold pilot contracts to 2 flagship municipalities (Gernika and El Escorial). This upfront revenue covered 100% of initial branding, UX adaptation, and content creation costs (0% net initial margin).
 * **Gross Margins:** Projected 95%–97% gross margin on recurring revenue from all subsequent town onboardings, due to fully amortized infrastructure.
+
+### Key Decisions
+ 
+1. **Adult vertical instead of price cuts or a larger sales push.** Price cuts were not viable given the thin margins of the family product, and scaling family sales within the existing territory would have required heavy investment in marketing and hiring. Municipal needs identified in discovery pointed to an adult product as the most requested option. It also fit the existing infrastructure, needed minimal investment and opened opportunities in new territories.
+2. **Reuse of the existing engine instead of building a new product or buying an external solution.** Both options were viable, but each required capital the company was not willing to commit. With no additional budget available, the opportunity had to be created from within existing resources.
+3. **Self-funded MVP through pre-sales to two flagship municipalities.** Gernika and El Escorial were chosen for their historical, cultural and political weight, which gives strong commercial traction, and because other municipalities could see the prototype working at full capacity with all its services deployed. The agreements also invited each municipality to contribute features matching its own needs. This choice was later borne out by the 25 inbound requests from other municipalities.
+4. **A complementary product in competitor-dominated regions instead of a head-on entry.** Entering a saturated market requires investment, and the opportunity cost clearly favored a second product over that entry or over further expansion in the larger core market. Figures from municipalities where both products operate show ours outperforming on content, interactivity, engagement and look, so placing a complementary product next to the competitor's lets the comparison sell our family product on its own.
+
+### Key Risk
+ 
+The main risk is that the adult product fails to gain traction and does not become a competitive product in the company's portfolio, which would slightly erode the company's reputation. The downside is contained by the minimal investment involved. Moreover, offering a second product, successful or not, generates contacts, conversations and brand exposure that strengthen the brand and support sales of the flagship family product. Early-warning indicators will be agreed with the pilot municipalities once real usage data is available, as each has its own traction expectations.
 
 ---
 
