@@ -12,9 +12,10 @@
 %%{init: {'theme':'base','themeVariables':{'lineColor':'#C9B8D9','edgeLabelBackground':'#FFFFFF','textColor':'#7A7A7A'}}}%%
 flowchart LR
     H["Hypothesis<br/>Business goal and user pain"] --> E["Cheap evidence<br/>Triangulated, limits stated"]
-    E --> G["Decision gate<br/>What evidence, who decides"]
-    G --> L["Protected launch<br/>Layered downside, early signals"]
-    L --> M["Measure and attribute<br/>Precise metrics, stated limits"]
+    E --> G{"Decision gate<br/>What evidence, who decides"}
+    G -- "Sufficient evidence" --> L["Protected launch<br/>Layered downside, early signals"]
+    G -.->|"Insufficient evidence / Refine hypothesis"| E
+    L --> M["Measure and attribute<br/>Precise metrics & counter-metrics"]
     M --> R["Retrospective<br/>Mistakes owned"]
     R -.->|"feeds the next hypothesis"| H
     classDef peach fill:#FDE2D4,stroke:#EBB9A3,color:#4A4A4A
