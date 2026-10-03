@@ -19,14 +19,14 @@
 
 ---
 
-### 2. Discovery & User Research (Q2 2024)
+### 2. Discovery & User Research (Q1 2026)
 * **B2B Qualitative Interviews (100% Coverage):** Conducted deep-dive qualitative interviews with tourism directors across all **150 client municipalities** to identify unaddressed needs in adult cultural and historical tourism.
 * **B2C Quantitative Research:** Surveyed **35,000 registered end-users** (generating 3,850 valid responses; 83% reported high satisfaction, 71% requested higher challenge levels, and 31% asked for enhanced mobile interactions).
 * **Competitor Field Audits:** Performed on-site UX/UI audits in target regions (Valencia, Barcelona) that revealed high replacement barriers for existing child products (2–3 year municipal procurement cycles). This positioned an adult vertical as the ideal "Trojan Horse" entry vehicle.
 
 ---
 
-### 3. Strategy & Solution Definition (MVP & Unit Economics - Q3 2024)
+### 3. Strategy & Solution Definition (MVP & Unit Economics - Q2 2026)
 * **Zero-CapEx Development (Engine Reuse):** Re-architected the existing web platform engine to serve adult audiences, completely eliminating new core software development CapEx.
 * **Financial Model & MVP Self-Funding:**
   * **Standard Contract Price:** ~€8,000 + annual recurring maintenance fee.
@@ -35,7 +35,7 @@
 
 ---
 
-### 4. Execution & Go-To-Market (GTM - Q4 2024 – Early 2025)
+### 4. Execution & Go-To-Market (GTM - Q3 2026)
 * **Pilot Deployment:** Deployed pilot routes in **Gernika and El Escorial** to establish commercial B2B proof points and B2C engagement baselines.
 * **Customer Co-Creation:** Presented early interactive prototypes to interested municipal stakeholders, incorporating direct client feedback prior to final code freeze.
 * **Low-Friction Web App UX:** Removed app store installation barriers by offering instant QR/link-based web access without mandatory sign-up flows.
@@ -43,7 +43,7 @@
 
 ---
 
-### 5. Business Results & Current Status (2025 / Active Phase)
+### 5. Business Results & Current Status (2026 / Active Phase)
 * **Live Telemetry & Retention Portal:** Built a custom B2B analytics portal (+100 telemetry metric combinations) tracking visitor activity at 15-day, 1-month, 3-month, 6-month, and 1-year intervals to prove public ROI and secure long-term account retention.
 * **Current Conversion Pipeline:** Actively evaluating real-world user metrics in the 2 pilot cities while nurturing the 25 inbound enterprise sales leads.
 * **Target B2C Engagement:** Target route completion rate **>65%** (vs. 50% baseline on child routes) with average interactive session times of 45–60 minutes.
