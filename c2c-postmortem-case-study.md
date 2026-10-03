@@ -1,7 +1,7 @@
 # Monetization Post-Mortem: Behavioral UX & Market Psychology
 
 > **Descriptor:** *UK C2C Collaborative Economy & Peer-to-Peer Community Platform*  
-> **Role:** *Senior Product Manager / UX Strategy Consultant (external consultant, embedded in the day-to-day team)*  
+> **Role:** *Product Manager / UX Strategy Consultant (external consultant, embedded in the day-to-day team)*  
 > **Timeline:** *January 2019 – September 2019*  
 > **Status:** *Post-Mortem Analysis of the monetization experiment (scope ends at my departure)*
 
