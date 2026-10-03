@@ -17,6 +17,7 @@
 * **Business Challenge:** Overcome product growth deceleration in the family segment, bypass high replacement barriers in competitor-dominated regions (such as the Levante / East Coast region), and unlock a new adult cultural tourism revenue stream.
 * **Project Status:** IN-FLIGHT CASE STUDY. The adult product is being implemented in the initial pilot destinations, while the commercial pipeline and a multi-year expansion plan are being built in parallel.
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'cScale0':'#FDE2D4','cScale1':'#FFF1C1','cScale2':'#D8EFD3','cScaleLabel0':'#4A4A4A','cScaleLabel1':'#4A4A4A','cScaleLabel2':'#4A4A4A','textColor':'#7A7A7A','lineColor':'#C9B8D9'}}}%%
 timeline
     title Project timeline 2026
     Q1 2026 : Discovery and user research : 150 municipal interviews : 3,850 valid survey responses
@@ -31,9 +32,16 @@ timeline
 * **B2C Quantitative Research:** Surveyed 35,000 registered end-users (generating 3,850 valid responses; 83% reported high satisfaction, 71% requested higher challenge levels, and 31% asked for enhanced mobile interactions).
 * **Competitor Field Audits:** Performed on-site UX/UI audits in target regions (Valencia, Barcelona) that revealed high replacement barriers for existing child products (2–3 year municipal procurement cycles). This positioned an adult vertical as a potential "Trojan Horse" entry vehicle that avoids those replacement cycles.
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'lineColor':'#C9B8D9','edgeLabelBackground':'#FFFFFF','textColor':'#7A7A7A'}}}%%
 flowchart LR
     F["Family product<br/>150+ municipalities"] -->|"cross-sell (Year 2)"| A("Adult vertical")
     A -->|"additive, no displacement (Year 3)"| R["Competitor-dominated regions<br/>Levante / East Coast"]
+    classDef peach fill:#FDE2D4,stroke:#EBB9A3,color:#4A4A4A
+    classDef butter fill:#FFF1C1,stroke:#E8D58F,color:#4A4A4A
+    classDef mint fill:#D8EFD3,stroke:#A9D3A0,color:#4A4A4A
+    class F peach
+    class A butter
+    class R mint
 ```
 
 ---
@@ -68,17 +76,39 @@ flowchart LR
 * **Early Levante Signal:** In addition to these 25 requests, three inquiries about the new product have come from the Levante region, an early indication of the adult vertical as an entry route into competitor-dominated areas, before any dedicated campaign has started there.
 * **Target B2C Engagement:** Target route completion rate >65% (vs. 50% baseline on child routes) with average interactive session times of 45–60 minutes.
 ```mermaid
-xychart-beta
-    title "Route completion rate (%)"
-    x-axis ["Child routes (baseline)", "Adult routes (target)"]
-    y-axis "Completion rate (%)" 0 --> 100
-    bar [50, 65]
+%%{init: {'theme':'base','themeVariables':{'lineColor':'#C9B8D9','textColor':'#7A7A7A'}}}%%
+flowchart LR
+    N["Newsletter to full client base"] --> P["25 quotation requests"]
+    P --> T["Year 1 target: 12-13 contracts (50%)"]
+    L["+3 inquiries from Levante"]
+    P ~~~ L
+    classDef peach fill:#FDE2D4,stroke:#EBB9A3,color:#4A4A4A
+    classDef butter fill:#FFF1C1,stroke:#E8D58F,color:#4A4A4A
+    classDef mint fill:#D8EFD3,stroke:#A9D3A0,color:#4A4A4A
+    classDef rose fill:#F9D5DC,stroke:#E5A9B5,color:#4A4A4A
+    class N peach
+    class P butter
+    class T mint
+    class L rose
 ```
 
 ---
 
 ### 6. Multi-Year Growth Roadmap & Future Expansion (1, 2, and 3-Year Objectives)
 As an active, in-flight project, strategic growth targets and product evolution pathways are structured across three explicit timeframes.
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'lineColor':'#C9B8D9','textColor':'#7A7A7A'}}}%%
+flowchart LR
+    Y1["<b>Year 1 · 12 months</b><br/>12-13 contracts from the 25 requests<br/>Platform V1.0 consolidated"] --> Y2["<b>Year 2 · 24 months</b><br/>Pipeline of 50-75 municipalities<br/>Cross-sell to 150 family clients"]
+    Y2 --> Y3["<b>Year 3 · 36 months</b><br/>25-30% penetration in competitor-dominated regions<br/>Independent SaaS vertical"]
+    classDef peach fill:#FDE2D4,stroke:#EBB9A3,color:#4A4A4A
+    classDef butter fill:#FFF1C1,stroke:#E8D58F,color:#4A4A4A
+    classDef mint fill:#D8EFD3,stroke:#A9D3A0,color:#4A4A4A
+    class Y1 peach
+    class Y2 butter
+    class Y3 mint
+```
+
 
 #### Strategic Timeframe Objectives
 * **YEAR 1 (Short-Term Objectives / Next 12 Months):**
