@@ -61,21 +61,6 @@ flowchart LR
 * **Low-Friction Web App UX:** Removed app store installation barriers by offering instant QR/link-based web access without mandatory sign-up flows.
 * **B2B Inbound Demand:** A newsletter to the full client base announcing the adult prototype and its implementation in Gernika and El Escorial generated 25 inbound requests from other municipalities, at no paid advertising cost. All 25 requested information, a quotation and the implementation timeline, which reflects peer-signalling among municipal buyers who track each other's product deployments.
 ```mermaid
-flowchart LR
-    N["Newsletter to full client base"] --> P["25 quotation requests"]
-    P --> T["Year 1 target: 12-13 contracts (50%)"]
-    L["+3 inquiries from Levante"]
-    P ~~~ L
-```
-
----
-
-### 5. Current Status & Early Signals (2026 / Active Phase)
-* **Telemetry & Retention Analysis:** Built a custom analytics portal (+100 metric combinations) to evaluate the performance of the existing 150 family deployments, tracking visitor activity at 15-day, 1-month, 3-month, 6-month, and 1-year intervals. These figures, such as the 50% route completion baseline, underpin the targets set for the adult vertical.
-* **Current Status:** Pilots in implementation; no adult-route user data yet. 25 municipalities have requested quotations and implementation timelines, forming a qualified pipeline.
-* **Early Levante Signal:** In addition to these 25 requests, three inquiries about the new product have come from the Levante region, an early indication of the adult vertical as an entry route into competitor-dominated areas, before any dedicated campaign has started there.
-* **Target B2C Engagement:** Target route completion rate >65% (vs. 50% baseline on child routes) with average interactive session times of 45–60 minutes.
-```mermaid
 %%{init: {'theme':'base','themeVariables':{'lineColor':'#C9B8D9','textColor':'#7A7A7A'}}}%%
 flowchart LR
     N["Newsletter to full client base"] --> P["25 quotation requests"]
@@ -91,6 +76,15 @@ flowchart LR
     class T mint
     class L rose
 ```
+
+---
+
+### 5. Current Status & Early Signals (2026 / Active Phase)
+* **Telemetry & Retention Analysis:** Built a custom analytics portal (+100 metric combinations) to evaluate the performance of the existing 150 family deployments, tracking visitor activity at 15-day, 1-month, 3-month, 6-month, and 1-year intervals. These figures, such as the 50% route completion baseline, underpin the targets set for the adult vertical.
+* **Current Status:** Pilots in implementation; no adult-route user data yet. 25 municipalities have requested quotations and implementation timelines, forming a qualified pipeline.
+* **Early Levante Signal:** In addition to these 25 requests, three inquiries about the new product have come from the Levante region, an early indication of the adult vertical as an entry route into competitor-dominated areas, before any dedicated campaign has started there.
+* **Target B2C Engagement:** Target route completion rate >65% (vs. 50% baseline on child routes) with average interactive session times of 45–60 minutes.
+
 
 ---
 
