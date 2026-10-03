@@ -17,7 +17,7 @@
 * **Business Challenge:** Overcome product growth deceleration in the family segment, bypass high replacement barriers in competitor-dominated regions (such as the Levante / East Coast region), and unlock a new adult cultural tourism revenue stream.
 * **Project Status:** IN-FLIGHT CASE STUDY. The adult product is being implemented in the initial pilot destinations, while the commercial pipeline and a multi-year expansion plan are being built in parallel.
 
-  mermaid
+* mermaid
 timeline
     title Project timeline 2026
     Q1 2026 : Discovery and user research : 150 municipal interviews : 3,850 valid survey responses
