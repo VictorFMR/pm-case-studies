@@ -17,15 +17,6 @@
 * **Business Challenge:** Overcome product growth deceleration in the family segment, bypass high replacement barriers in competitor-dominated regions (such as the Levante / East Coast region), and unlock a new adult cultural tourism revenue stream.
 * **Project Status:** IN-FLIGHT CASE STUDY. The adult product is being implemented in the initial pilot destinations, while the commercial pipeline and a multi-year expansion plan are being built in parallel.
 
-mermaid
-flowchart LR
-    N["Newsletter to full client base"] --> P["25 quotation requests"]
-    P --> T["Year 1 target: 12-13 contracts (50%)"]
-    L["+3 inquiries from Levante"]
-    P ~~~ L
-```
-
-
 ---
 
 ### 2. Discovery & User Research (Q1 2026)
