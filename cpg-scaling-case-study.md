@@ -15,7 +15,7 @@
 ### 1. Executive Summary & Business Context
 * **Context:** A UK B2B cooperative importer and wholesaler specializing in ethical, organic, and sustainable food products, supplying a network of **300+ independent retail stores** across the South West of the UK.
 * **Business Challenge:** Company revenue had stagnated, with **growth below 1%** in the preceding period. The usual levers (pricing, range extension, acquiring new stores and entering other categories) had already been executed in previous years without breaking the stagnation. The company needed a genuinely new category that did not compromise its ethical and organic sourcing values.
-* **My Role:** E-commerce Product Manager and Data Analyst, leading the jackfruit initiative from discovery and product selection to launch, working with the cooperative's management and analyzing the data behind the decisions.
+* **My Role:** E-commerce Product Manager and Data Analyst. In a lean cooperative with no dedicated product function, I took ownership of the jackfruit initiative, from discovery to launch.
 * **Outcome:** The company introduced **Young Organic Jackfruit to the UK market**. Total company revenue grew **+15% in the 12 months after launch** (against previous growth below 1%). Growth was sustained for **6 consecutive years**: throughout my time at the company until 2021 and for the two years after my departure, according to data provided by the company. In the following years every distributor, organic or not, began importing the product, and it is now a regular item in British supermarkets.
 
 ```mermaid
@@ -146,6 +146,7 @@ flowchart LR
   * **Basket Expansion (Cross-Selling Effect):** Purchases were compared week by week within the month (first week, second week, and so on) depending on whether they included jackfruit. Orders with jackfruit showed a **3% to 7% increase in total basket size**. This is not a formal control group: stores adding jackfruit may already have been those placing larger orders.
 * **Competitive Impact:** The main regional competitor tried to develop its own jackfruit, but its product did not match ours in quality. It was blocked for **8 months** and then needed **two more years** to secure suppliers of our scale and launch its own product, so the advantage lasted about **2 years and 8 months**. In the meantime it bought product from us to prevent its store network from coming to us directly.
 * **After the Advantage:** In the following years every distributor, organic and non-organic, began importing it, and it is now a regular product in British supermarkets. The category we opened turned out to be real, and so did the end of the pioneer advantage.
+* **Data Availability:** I left the company in 2021 and no longer have access to detailed figures such as margins, prices or the capital tied up in stock. They are not reported here rather than estimated.
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'textColor':'#7A7A7A','xyChart':{'plotColorPalette':'#A9D3A0','titleColor':'#7A7A7A','xAxisLabelColor':'#7A7A7A','yAxisLabelColor':'#7A7A7A','xAxisTitleColor':'#7A7A7A','yAxisTitleColor':'#7A7A7A'}}}}%%
@@ -184,12 +185,12 @@ flowchart LR
 ---
 
 ### 7. Mistakes & What I Would Do Differently
-The launch was an unprecedented success: we introduced Young Organic Jackfruit to the UK and the company flourished for several years. What we did not do was take over the category, tie it to our own brand and become its evangelists. The four mistakes below are listed without ranking, and they share a single root cause: **the commercial deficit of the organization**.
+The launch was an unprecedented success: we introduced Young Organic Jackfruit to the UK and the company flourished for several years. What we did not do was take over the category, tie it to our own brand and become its evangelists. The four mistakes below are listed without ranking, and they share a single root cause: **the commercial deficit of the organization, and my own part in it**. As the only person leading a very small marketing department, I chose not to push for the larger commercial and marketing investment that the launch deserved once it had proved itself.
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'lineColor':'#C9B8D9','edgeLabelBackground':'#FFFFFF','textColor':'#7A7A7A'}}}%%
 flowchart LR
-    R["Root cause<br/>Commercial deficit<br/>of the organization"] --> M1["No marketing to win<br/>competitors' customers"]
+    R["Root cause<br/>Commercial deficit of the organization<br/>and my choice not to push<br/>for more investment"] --> M1["No marketing to win<br/>competitors' customers"]
     R --> M2["No aggressive branding<br/>to own the category"]
     R --> M3["No vegan and organic<br/>nutrition influencers"]
     R --> M4["No content with well-known<br/>chefs creating new recipes"]
@@ -227,4 +228,3 @@ Not on this list, deliberately: depending on a single supplier (we had two other
   mermaid.initialize({ startOnLoad: false });
   await mermaid.run();
 </script>
-
